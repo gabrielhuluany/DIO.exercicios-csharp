@@ -1,9 +1,13 @@
-Desafios Iniciais<br>
-1 / 3 - Diferença<br>
-2 / 3 - Múltiplos<br>
-3 / 3 - Cálculo Simples<br>
+<h1>Desafios Iniciais - GFT Start #3 .NET</h1>
+<ul>
+  <li>1 / 3 - Diferença</li>
+  <li>2 / 3 - Múltiplos</li>
+  <li>3 / 3 - Cálculo Simples</li>
+</ul>
 
-Desafios Básicos<br>
-1 / 3 - Vai Ter Copa?<br>
-2 / 3 - Teste de Seleção 1<br>
-3 / 3 - Média 3<br>
+<h1>Desafios Básicos - GFT Start #3 .NET</h1>
+<ul>
+  <li>1 / 3 - Vai Ter Copa?</li>
+  <li>2 / 3 - Teste de Seleção 1</li>
+  <li>3 / 3 - Média 3</li>
+</ul>
