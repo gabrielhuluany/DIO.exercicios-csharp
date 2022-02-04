@@ -8,7 +8,7 @@ O arquivo de entrada contém 4 valores inteiros.
 
 <h1>Saída</h1>
 
-Imprima a mensagem DIFERENCA com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
+Imprima a mensagem <b>DIFERENCA</b> com todas as letras maiúsculas, conforme exemplo abaixo, com um espaço em branco antes e depois da igualdade.
 
 <table>
   <tr>
