@@ -1,6 +1,6 @@
 <b>❖ Básico ◉ Princípios Básicos</b><br>
 <hr>
-Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem "Sao Multiplos" ou "Nao sao Multiplos", indicando se os valores lidos são múltiplos entre si.
+Leia 2 valores inteiros (A e B). Após, o programa deve mostrar uma mensagem <b>"Sao Multiplos"</b> ou <b>"Nao sao Multiplos"</b>, indicando se os valores lidos são múltiplos entre si.
 
 <h1>Entrada</h1>
 
