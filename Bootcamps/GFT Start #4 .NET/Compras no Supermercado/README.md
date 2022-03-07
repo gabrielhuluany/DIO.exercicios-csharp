@@ -21,6 +21,7 @@ A saída contém N linhas, cada uma representando uma lista de compra, sem os it
   </tr>
   <tr>
     <td>2</td>
+    <td></td>
   </tr>
   <tr>
     <td>carne laranja suco picles laranja picles</td>
