@@ -12,12 +12,9 @@ namespace DIO
           int c = int.Parse(selections[2]);
           int d = int.Parse(selections[3]);
           
-          if (b > c && d > a && (c + d) > (a + b) && c > 0 && d > 0 && a % 2 == 0)
-          {
+          if (b > c && d > a && (c + d) > (a + b) && c > 0 && d > 0 && a % 2 == 0) {
               Console.WriteLine("Valores aceitos");
-          } 
-          else
-          {
+          } else {
               Console.WriteLine("Valores nao aceitos");
           }
           Console.ReadKey();
