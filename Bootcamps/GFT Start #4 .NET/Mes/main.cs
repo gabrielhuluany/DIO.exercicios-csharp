@@ -46,11 +46,11 @@ namespace DIO
                   Console.WriteLine("December");
                   break;
               default:
-                  Console.WriteLine("Digite um número válido de 1 a 12");
+                  Console.WriteLine("Digite um número de 1 a 12!!");
                   break;
           }
           
-        Console.ReadLine();
+        Console.ReadKey();
         }
     }
 }
