@@ -45,6 +45,8 @@ namespace DIO
           quociente = resto / 1;
           Console.WriteLine($"{quociente} nota(s) de R$ {nota},00");
           resto = resto % 1;
+          
+          Console.ReadKey();
         }
     }
 }
