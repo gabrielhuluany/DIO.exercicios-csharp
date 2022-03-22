@@ -18,6 +18,7 @@ namespace DIO
           {
               Console.WriteLine("Nao sao Multiplos");
           }
+          Console.ReadKey();
         }
     }
 }
