@@ -46,7 +46,6 @@ namespace DIO
             
             Console.WriteLine("Media final: {0:F1}", avg);
           }
-          
           Console.ReadKey();
         }
     }
