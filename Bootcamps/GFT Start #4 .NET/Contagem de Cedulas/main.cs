@@ -6,18 +6,16 @@ namespace DIO
     {
         static void Main(string[] args)
         {
-          int n, nota, quociente, resto;
-
-          n = int.Parse(Console.ReadLine());
-          Console.WriteLine(n);
-
-          resto = n;
-
+          int resto, nota, quociente;
+          
+          resto = int.Parse(Console.ReadLine());
+          Console.WriteLine(resto);
+          
           nota = 100;
           quociente = resto / 100;
           Console.WriteLine($"{quociente} nota(s) de R$ {nota},00");
           resto = resto % 100;
-
+          
           nota = 50;
           quociente = resto / 50;
           Console.WriteLine($"{quociente} nota(s) de R$ {nota},00");
