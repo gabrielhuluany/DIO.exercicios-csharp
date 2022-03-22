@@ -21,6 +21,7 @@ namespace DIO
               Console.WriteLine((D + 1) + (D + 3) + (D + 5) + (D + 7) + (D + 9));
             }
           }
+          Console.ReadKey();
         }
     }
 }
