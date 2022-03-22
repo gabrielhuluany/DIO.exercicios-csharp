@@ -49,7 +49,6 @@ namespace DIO
                   Console.WriteLine("Digite um número de 1 a 12!!");
                   break;
           }
-          
           Console.ReadKey();
         }
     }
