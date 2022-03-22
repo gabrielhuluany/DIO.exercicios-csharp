@@ -7,16 +7,12 @@ namespace DIO
         static void Main(string[] args)
         {
           string str;
-          while ((str=Console.ReadLine())!= null)
-          {
+          while((str=Console.ReadLine()) != null) {
             int x = int.Parse(str);
             
-            if (x == 0)
-            {
+            if(x == 0) {
                 Console.WriteLine("vai ter copa!");
-            }
-            else
-            {
+            } else {
                 Console.WriteLine("vai ter duas!");
             }
           }
