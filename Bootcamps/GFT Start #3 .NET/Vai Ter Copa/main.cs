@@ -7,7 +7,7 @@ namespace DIO
         static void Main(string[] args)
         {
           string str;
-          while((str=Console.ReadLine()) != null) {
+          while((str = Console.ReadLine()) != null) {
             int x = int.Parse(str);
             
             if(x == 0) {
