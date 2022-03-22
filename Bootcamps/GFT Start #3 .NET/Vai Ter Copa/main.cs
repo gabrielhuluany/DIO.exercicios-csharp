@@ -5,7 +5,7 @@ namespace DIO
     class Program
     {
         static void Main(string[] args)
-        { 
+        {
           string str;
           while ((str=Console.ReadLine())!= null)
           {
@@ -20,6 +20,7 @@ namespace DIO
                 Console.WriteLine("vai ter duas!");
             }
           }
+          Console.ReadKey();
         }
     }
 }
