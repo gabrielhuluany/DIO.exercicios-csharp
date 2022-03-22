@@ -19,6 +19,7 @@ namespace DIO
           
           double total = (n1 * valor1) + (n2 * valor2);
           Console.WriteLine("VALOR A PAGAR: R$ {0:F2}", total);
+          Console.ReadKey();
         }
     }
 }
