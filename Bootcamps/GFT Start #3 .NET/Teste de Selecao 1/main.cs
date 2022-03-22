@@ -20,6 +20,7 @@ namespace DIO
           {
               Console.WriteLine("Valores nao aceitos");
           }
+          Console.ReadKey();
         }
     }
 }
