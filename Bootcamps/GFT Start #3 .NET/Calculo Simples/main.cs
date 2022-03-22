@@ -7,6 +7,7 @@ namespace DIO
         static void Main(string[] args) 
         {
           string[] input;
+          
           input = Console.ReadLine().Split(' ');
           int cod1 = int.Parse(input[0]);
           int n1 = int.Parse(input[1]);
